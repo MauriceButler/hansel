@@ -1,0 +1,27 @@
+{
+  "name": "hansel",
+  "version": "0.0.0",
+  "description": "Check to see if a url is hot right now",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MauriceButler/hansel.git"
+  },
+  "keywords": [
+    "hansel",
+    "hot",
+    "pagerank",
+    "page",
+    "rank",
+    "gretle",
+    "grettle",
+  ],
+  "author": "Maurice Butler <maurice.butler@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MauriceButler/hansel/issues"
+  }
+}
