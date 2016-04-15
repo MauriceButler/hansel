@@ -19,8 +19,8 @@
     "gretle",
     "grettle"
   ],
-  "devDependencies" : {
-    "tape" : "1.1.x"
+  "devDependencies": {
+    "tape": "1.1.x"
   },
   "dependencies": {
     "commander": "2.0.x",
@@ -34,5 +34,9 @@
   },
   "bin": {
     "hansel": "./index.js"
+  },
+  "homepage": "https://github.com/MauriceButler/hansel#readme",
+  "directories": {
+    "test": "tests"
   }
 }
