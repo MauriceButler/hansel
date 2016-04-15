@@ -1,6 +1,6 @@
 {
   "name": "hansel",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Check to see if a url is hot right now",
   "main": "hansel.js",
   "scripts": {
